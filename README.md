@@ -17,6 +17,7 @@ Total Ganancia Card =
 // Margen de Ganancia
 Margen Ganancia % = 
 DIVIDE([Total Ganancia], [Total Ventas], 0)
+
 📁 Estructura del Repositorio├── assets/
 │   ├── dashboard-demo.gif   # Demostración en GIF o captura
 │   └── dashboard-preview.png # Imagen estática de alta calidad
@@ -28,5 +29,7 @@ DIVIDE([Total Ganancia], [Total Ventas], 0)
 **🚀 Cómo Explorar este ProyectoClonar o descargar el repositorio:git clone:**(https://github.com/franco-96)repositorio.git
 
 Abrir el archivo .pbix: Requiere tener instalado Microsoft Power BI Desktop.
-Interactuar: Utiliza los segmentadores de fecha, categoría y mercado en la parte superior para filtrar las métricas en tiempo real.
-✍️ Autor: Franco Vergara🔗 LinkedIn: https://www.linkedin.com/in/franco-e-vergara/
+
+**Interactuar:** Utiliza los segmentadores de fecha, categoría y mercado en la parte superior para filtrar las métricas en tiempo real.
+
+**✍️ Autor:** Franco Vergara🔗 LinkedIn: https://www.linkedin.com/in/franco-e-vergara/
